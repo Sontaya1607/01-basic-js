@@ -2,8 +2,9 @@ function hello(name) {
   return `Hello ${name}`
 }
 
-module.exports = hello
-
-function sayHi() {
-
-}
+console.log(hello("golf"));
+// module.exports = hello
+//
+// function sayHi() {
+//
+// }
