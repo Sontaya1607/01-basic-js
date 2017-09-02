@@ -1,0 +1,22 @@
+{
+  "name": "01-basic-js",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://golf16071997@bitbucket.org/golf16071997/01-basic-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/golf16071997/01-basic-js#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "dependencies": {
+    "jest": "^20.0.4"
+  },
+  "description": ""
+}
